@@ -1,9 +1,9 @@
-Booth's Multiplication Algorithm : 
-	The booth algorithm is a multiplication algorithm that allows us to multiply the two signed binary integers in 2's complement, respectively. It is also used to speed up the performance of the multiplication process.
+# Booth's Multiplication Algorithm : 
+The booth algorithm is a multiplication algorithm that allows us to multiply the two signed binary integers in 2's complement, respectively. It is also used to speed up the performance of the multiplication process.
 
 ![booths-multiplication-algorithm-in-coa](https://user-images.githubusercontent.com/87819222/197015866-176c4653-af4f-4e0f-96cd-e7e0a8f404cf.png)
 
-Working on the Booth Algorithm : 
+# Working on the Booth Algorithm : 
 1. Set the Multiplicand and Multiplier binary bits as M and Q, respectively.
 2. Initially, we set the AC and Qn + 1 registers value to 0.
 3. SC represents the number of Multiplier bits (Q), and it is a sequence counter that is continuously decremented till equal to the number of bits (n) or reached to 0.
